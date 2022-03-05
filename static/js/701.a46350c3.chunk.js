@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmysite_dev=self.webpackChunkmysite_dev||[]).push([[701],{94701:function(e,s,a){e.exports=a.p+"static/media/star-add.afa0384a23e3f1e2a832.svg"}}]);
