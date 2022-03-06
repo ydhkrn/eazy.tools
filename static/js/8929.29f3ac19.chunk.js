@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmysite_dev=self.webpackChunkmysite_dev||[]).push([[8929],{98929:function(e,t,a){a.r(t),a.d(t,{toolsListMap:function(){return n}});var s=a(7370),o=a(6670);a(72791);var p=a.p+"static/media/thermometer.b822f1f2ae9a20083df8998a97f9145d.svg",n=new Map([[s.pages.toolsConvertTemp.path,{name:(0,o.getLastPart)(s.pages.toolsConvertTemp.path,"/"),icon:p,description:s.pages.toolsConvertTemp.title}]])}}]);
+//# sourceMappingURL=8929.29f3ac19.chunk.js.map

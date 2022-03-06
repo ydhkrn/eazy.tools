@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmysite_dev=self.webpackChunkmysite_dev||[]).push([[721],{39721:function(e,s,c){e.exports=c.p+"static/media/currency-ex.c46bfd972e96694c0d0a.svg"}}]);

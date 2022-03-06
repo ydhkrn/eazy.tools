@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmysite_dev=self.webpackChunkmysite_dev||[]).push([[1354],{81354:function(e,s,t){e.exports=t.p+"static/media/swap.879a49335bf9b6183ffe.svg"}}]);
