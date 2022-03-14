@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmysite_dev=self.webpackChunkmysite_dev||[]).push([[2724],{2724:function(e,n,r){r.r(n),r.d(n,{default:function(){return t}});r(72791);var s=r(80184);function t(){return(0,s.jsx)("div",{children:(0,s.jsx)("h1",{children:"Blogs/Travel"})})}}}]);
+//# sourceMappingURL=2724.88b64ee4.chunk.js.map
