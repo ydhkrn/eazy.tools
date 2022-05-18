@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmysite_dev=self.webpackChunkmysite_dev||[]).push([[1369],{91369:function(e,n,t){t.r(n),t.d(n,{temperatureMap:function(){return s},baseUnit:function(){return a},defaults:function(){return u}});var s={K:{name:"Kelvin",symbol:"K"},C:{name:"Celsius",symbol:"\xb0C"},F:{name:"Fahrenheit",symbol:"\xb0F"},R:{name:"Rankine",symbol:"\xb0R"}},a="K",u={inputCode:"C",targetCode:"F",favoriteCodes:Object.keys(s)}}}]);
-//# sourceMappingURL=1369.20c237d8.chunk.js.map

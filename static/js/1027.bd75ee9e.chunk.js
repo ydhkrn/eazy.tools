@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmysite_dev=self.webpackChunkmysite_dev||[]).push([[1027],{41027:function(e,s,t){e.exports=t.p+"static/media/forex.c46bfd972e96694c0d0a.svg"}}]);
