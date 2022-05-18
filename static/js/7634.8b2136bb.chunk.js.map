@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/7634.8b2136bb.chunk.js","mappings":"oLAEe,SAASA,IACtB,OACE,0BACE","sources":["pages/Blogs/Tech/Charset/index.tsx"],"sourcesContent":["import React from \"react\";\n\nexport default function Charset() {\n  return (\n    <div>\n      <h1>Charset</h1>\n    </div>\n  );\n}\n"],"names":["Charset"],"sourceRoot":""}

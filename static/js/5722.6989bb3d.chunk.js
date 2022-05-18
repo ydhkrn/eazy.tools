@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmysite_dev=self.webpackChunkmysite_dev||[]).push([[5722],{5722:function(e,s,c){e.exports=c.p+"static/media/world.883b7cc03c47e2bc8ede.svg"}}]);

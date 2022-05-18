@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmysite_dev=self.webpackChunkmysite_dev||[]).push([[1885],{31885:function(e,t,n){function u(){return Math.floor(+Date.now()/1e3)}n.r(t),n.d(t,{getTimetamp:function(){return u}})}}]);
+//# sourceMappingURL=1885.0656df6c.chunk.js.map

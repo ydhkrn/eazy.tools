@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmysite_dev=self.webpackChunkmysite_dev||[]).push([[4216,4830],{54216:function(e,a,n){n.r(a),n.d(a,{default:function(){return c}});n(72791),n(34830);var s=n(80184);function c(e){var a=e.code,n=e.iconClassName,c=void 0===n?"":n,t=e.wrapperClassName,r=void 0===t?"":t;return(0,s.jsx)("span",{className:r,children:(0,s.jsx)("i",{className:"countryFlagSprite countryFlag-".concat(a.toLowerCase()," ").concat(c)})})}},34830:function(e,a,n){n.r(a),a.default={}}}]);
+//# sourceMappingURL=4216.2b7d960d.chunk.js.map
