@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmysite_dev=self.webpackChunkmysite_dev||[]).push([[3474],{23474:function(e,t,n){function s(e){return{baseCode:e.base_code,conversionRates:e.conversion_rates,timeLastUpdate:e.time_last_update_unix,timeNextUpdate:e.time_next_update_unix}}n.r(t),n.d(t,{mapForexRateResponse:function(){return s}})}}]);
+//# sourceMappingURL=3474.db015e04.chunk.js.map
