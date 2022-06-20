@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/1885.0656df6c.chunk.js","mappings":"+GAAO,SAASA,IACd,OAAOC,KAAKC,OAAOC,KAAKC,MAAQ,K","sources":["shared/helpers/time.ts"],"sourcesContent":["export function getTimetamp() {\n  return Math.floor(+Date.now() / 1000);\n}\n"],"names":["getTimetamp","Math","floor","Date","now"],"sourceRoot":""}
