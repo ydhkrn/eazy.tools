@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmysite_dev=self.webpackChunkmysite_dev||[]).push([[4831],{64831:function(e,c,k){k.r(c);var r={degreePerClockMark:60,clockMarkCount:24,clockTimeDelimiter:":",clockMarkDegreeRange:{min:0,max:1440}};c.default=r}}]);
-//# sourceMappingURL=4831.1281b3ba.chunk.js.map
