@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmysite_dev=self.webpackChunkmysite_dev||[]).push([[4661],{44661:function(e,s,t){e.exports=t.p+"static/media/calendar-time.b94647e9da2411333cbe.svg"}}]);

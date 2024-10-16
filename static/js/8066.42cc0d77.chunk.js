@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkeazy_tools_dev=self.webpackChunkeazy_tools_dev||[]).push([[8066],{18066:(e,t,s)=>{function a(e){return{baseCode:e.base_code,conversionRates:e.conversion_rates,timeLastUpdate:e.time_last_update_unix,timeNextUpdate:e.time_next_update_unix}}s.r(t),s.d(t,{mapForexRateResponse:()=>a})}}]);
+//# sourceMappingURL=8066.42cc0d77.chunk.js.map

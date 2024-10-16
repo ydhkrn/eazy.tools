@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkeazy_tools_dev=self.webpackChunkeazy_tools_dev||[]).push([[6331],{56331:(e,t,o)=>{function s(){return Math.floor(+Date.now()/1e3)}o.r(t),o.d(t,{getTimestamp:()=>s})}}]);
+//# sourceMappingURL=6331.d53f3c88.chunk.js.map

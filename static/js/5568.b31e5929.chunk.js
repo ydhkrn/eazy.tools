@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeazy_tools_dev=self.webpackChunkeazy_tools_dev||[]).push([[5568],{5568:(e,a,s)=>{e.exports=s.p+"static/media/money-bag.3406b3db48fce982aaae.svg"}}]);

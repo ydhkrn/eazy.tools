@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeazy_tools_dev=self.webpackChunkeazy_tools_dev||[]).push([[3649],{43649:(e,s,a)=>{e.exports=a.p+"static/media/world.8ad026ace0579a411e9c.svg"}}]);

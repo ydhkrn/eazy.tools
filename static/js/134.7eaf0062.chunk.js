@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeazy_tools_dev=self.webpackChunkeazy_tools_dev||[]).push([[134],{10134:(e,s,a)=>{e.exports=a.p+"static/media/delete.3556d1eb7ff0c2a1ea66.svg"}}]);

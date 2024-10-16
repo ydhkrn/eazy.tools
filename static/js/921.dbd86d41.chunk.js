@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmysite_dev=self.webpackChunkmysite_dev||[]).push([[921],{80921:function(e,s,t){e.exports=t.p+"static/media/clock.75a2eae9515f8418562d.svg"}}]);

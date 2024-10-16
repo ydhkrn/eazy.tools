@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/306.618a45fa.chunk.js","mappings":"6IAUA,UARA,WACE,OACE,0BACE,0CAGN,C","sources":["pages/blogs/travel/index.tsx"],"sourcesContent":["import React from \"react\";\n\nfunction Travel() {\n  return (\n    <div>\n      <h1>Blogs/Travel</h1>\n    </div>\n  );\n}\n\nexport default Travel;\n"],"names":[],"sourceRoot":""}

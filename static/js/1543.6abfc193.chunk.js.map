@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/1543.6abfc193.chunk.js","mappings":"8IAUA,UARA,WACE,OACE,0BACE,mCAGN,C","sources":["pages/blogs/index.tsx"],"sourcesContent":["import React from \"react\";\n\nfunction Blogs() {\n  return (\n    <div>\n      <h1>Blogs</h1>\n    </div>\n  );\n}\n\nexport default Blogs;\n"],"names":[],"sourceRoot":""}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkeazy_tools_dev=self.webpackChunkeazy_tools_dev||[]).push([[2273],{22273:(e,s,l)=>{l.r(s),l.d(s,{default:()=>t});l(65043);var n=l(70579);const t=function(){return(0,n.jsx)("div",{children:(0,n.jsx)("h1",{children:"Blogs"})})}}}]);
+//# sourceMappingURL=2273.059e2d09.chunk.js.map

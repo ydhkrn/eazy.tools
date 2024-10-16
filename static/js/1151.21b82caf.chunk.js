@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmysite_dev=self.webpackChunkmysite_dev||[]).push([[1151],{81151:function(e,s,t){e.exports=t.p+"static/media/weigh.bfd69936b3122a36392d.svg"}}]);

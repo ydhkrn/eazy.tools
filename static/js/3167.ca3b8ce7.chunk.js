@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeazy_tools_dev=self.webpackChunkeazy_tools_dev||[]).push([[3167],{3167:(e,s,a)=>{e.exports=a.p+"static/media/forex.c46bfd972e96694c0d0a.svg"}}]);

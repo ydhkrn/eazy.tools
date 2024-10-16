@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkeazy_tools_dev=self.webpackChunkeazy_tools_dev||[]).push([[2004],{42004:(e,t,o)=>{o.r(t),o.d(t,{en:()=>r});const r={inputLabel:"Enter your text here",placeholder:"Enter your text here",qrCodeTitle:"Your QRCode"}}}]);
+//# sourceMappingURL=2004.fa71441c.chunk.js.map
